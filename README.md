@@ -1,13 +1,7 @@
 <div id="header" align="center">
   <h1>OZETenes</h1>
-  <div id="ci-cd">
-      <a href="https://circleci.com/gh/LuxQuad/ozet-core-api/tree/develop">
-        <img src="https://circleci.com/gh/LuxQuad/ozet-core-api/tree/develop.svg?style=shield&circle-token=36c9a40ddbf32c1d59030908ef15af6f6c1a05d5" alt="circleci"/>
-      </a>
-      <a href="https://codecov.io/gh/LuxQuad/ozet-core-api">
-        <img src="https://codecov.io/gh/LuxQuad/ozet-core-api/branch/develop/graph/badge.svg?token=XNFZWYXC91" alt="codecov" />
-      </a>
-      <a href="#" target="_blank"><img src="https://img.shields.io/github/issues-pr-closed/LuxQuad/ozet-core-api" alt="GitHub closed pull requests" /></a>
+  <div id="status">
+      <a href="#" target="_blank"><img src="https://img.shields.io/github/issues-pr-closed/LuxQuad/ozet-ozetenes" alt="GitHub closed pull requests" /></a>
   </div>
   <div id="project-logo">
     <a href="https://github.com/BartKim-J/pretty-readme" >
@@ -15,13 +9,8 @@
     </a>
   </div>
   <div id="main">
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python%203.7%20|%203.8%20-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=Kubernetes&logoColor=white" alt="python" /></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="docker" /></a>
-  </div>
-  <div id="sub">
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Fast%20API-009688?style=flat&logo=FastAPI&logoColor=white" alt="django" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgresQL-4479A1?style=flat&logo=PostgresQL&logoColor=white" alt="mysql" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="redis" /></a>
   </div>
 </div>
 
