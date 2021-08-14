@@ -11,11 +11,11 @@ data:
 kind: Secret
 metadata:
   creationTimestamp: "2021-08-14T16:52:07Z"
-  name: regcred
+  name: docker-hub-auth
   namespace: ozet
   resourceVersion: "9943"
   uid: 80838d71-e6f2-4a7d-b426-4b47081c1368
-type: kubernetes.io/dockerconfigjson:wq:wq!
+type: kubernetes.io/dockerconfigjson
 
 ---
 
@@ -42,7 +42,7 @@ spec:
         ports:
         - containerPort: 8000
       imagePullSecrets:
-      - name: regcred
+      - name: docker-hub-auth
 
 ---
 
